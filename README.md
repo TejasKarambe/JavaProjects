@@ -1,8 +1,4 @@
-# JavaProjects
+# BankProject 
 
-Hello Friends😋,
-
-This is my repository of java projects and small programs.
-You can fork this code and push request.
-Please, contribute to this repository by giving your time and efforts 
-to explore java with me 😋⭐⭐⭐⭐
+It is the Sample Project using 2 classes with static and non-staic variable.
+Everyone should practice that code to understand the basic concepts of any project.
